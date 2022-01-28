@@ -13,7 +13,7 @@ The aim of the project is to design a RTOS-based robotic car that will be contro
 
 [![Project Demo](https://img.youtube.com/vi/lY2sMF7wDPk/maxresdefault.jpg)](https://www.youtube.com/watch?v=lY2sMF7wDPk)
 
-If you are unavailable to click the icon, you can view the video [here](https://www.youtube.com/watch?v=lY2sMF7wDPk)
+If you are unavailable to click the icon, you can view the video [here.](https://www.youtube.com/watch?v=lY2sMF7wDPk)
 
 ## RTOS Architecture
 ![](./imgs/img1.PNG)
